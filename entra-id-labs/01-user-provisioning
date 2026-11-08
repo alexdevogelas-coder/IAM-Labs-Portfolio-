@@ -1,0 +1,63 @@
+Microsoft Entra ID - User Provisioning
+
+1. Objective
+
+The objective of this lab is to understand how user accounts and groups are managed in Microsoft Entra ID.
+
+The lab focuses on creating users, assigning group membership, and understanding the relationship between identities and access.
+
+2. Environment
+
+Platform: Microsoft Entra ID
+
+Environment: Personal lab / test tenant
+
+Tools: Microsoft Entra admin center
+
+User accounts: Fictional test identities
+
+3. Tasks Performed
+
+Created a test user.
+
+Created a security group.
+
+Assigned the test user to the group.
+
+Reviewed the user's properties and group membership.
+
+Verified the configuration.
+
+4. Results
+
+The test user was successfully created and assigned to the security group.
+
+The lab demonstrated how group-based access management can be used to organize identities and manage access.
+
+5. Challenges and Troubleshooting
+
+Document any issues encountered during the lab.
+
+Example:
+
+I investigated why the user was not appearing in the expected group membership list and verified the group configuration.
+
+6. Key Learnings
+
+Understanding the relationship between users and security groups.
+
+Understanding group-based access management.
+
+Understanding the importance of correctly assigning and reviewing access.
+
+7. Future Improvements
+
+Explore dynamic groups.
+
+Investigate automated user provisioning.
+
+Explore Microsoft Graph PowerShell for user management.
+
+8. Evidence
+
+Screenshots of the configuration and verification steps can be added to the screenshots/ fol
